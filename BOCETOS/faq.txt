@@ -1,0 +1,20 @@
+<div class="body">
+    <h1>Introducción</h1>
+    <p>Bienvenidos a nuestra empresa de venta de software. Somos una compañía especializada en ofrecer soluciones de software de alta calidad para diferentes necesidades empresariales. Nuestro objetivo es ayudar a nuestros clientes a mejorar sus procesos y aumentar su eficiencia, al proporcionarles las herramientas tecnológicas adecuadas.</p>
+    <img src="img/Inicio/imagen1.jpeg" width="750" height="500" alt="">
+    <div class="intro">
+        <h1>Nuestros productos</h1>
+        <p class="left">Contamos con una amplia gama de productos de software para diferentes áreas de negocio, desde soluciones de gestión de proyectos y automatización de procesos, hasta software de seguridad y análisis de datos. Nuestros productos están diseñados para ser flexibles y personalizables, de modo que puedan adaptarse a las necesidades específicas de cada cliente.</p>
+        <img src="img/Inicio/imagen2.jpeg" alt="">
+    </div>
+    <div class="serv">
+        <h1>Servicios adicionales</h1>
+        <p class="right">Además de nuestros productos de software, ofrecemos servicios adicionales que complementan nuestras soluciones, como servicios de consultoría, implementación y soporte técnico. Estamos comprometidos en brindar una atención personalizada a nuestros clientes, para asegurarnos de que puedan sacar el máximo provecho de nuestras soluciones.</p>
+        <img src="img/Inicio/imagen3.jpeg" alt="">  
+    </div>
+    <div class="equip">
+        <h1>Nuestro equipo</h1>
+        <p class="left">Contamos con un equipo de expertos en tecnología, programación y negocios que trabajan juntos para ofrecer soluciones de software de alta calidad. Nuestros ingenieros y desarrolladores están altamente capacitados y tienen una amplia experiencia en el desarrollo de software de alta complejidad. Nuestro equipo de atención al cliente está disponible para responder cualquier pregunta y ofrecer asistencia técnica siempre que se necesite.</p>
+        <img src="img/Inicio/imagen4.jpeg" alt="team">
+    </div>
+</div>
